@@ -46,3 +46,6 @@ Após exclusões o número diminuiu de 201 para 76 (Imagem 4 e 5), resultando em
   <br>
   <em>Imagem 6: Tabela com seus respectivos tamanhos (após exclusões) em MB de colunas não usadas.</em>
 </p>
+
+Fiz uma otimização da consulta SQL também, mas por questões éticas não posso compartilhar as mudanças, por ser uma consulta que pode haver informações confidencias. Mas no resumo
+deletei algumas colunas que estavam sendo trazidas juntas sem a necessidade, eliminei algumas redundâncias e otimizei os parâmetros de acordo com o solicitado.
